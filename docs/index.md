@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# Welcome to Phil's Notes
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
