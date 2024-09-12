@@ -1,6 +1,6 @@
 # Welcome to Phil's Notes
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+A collection of notes on various projects.
 
 ## Commands
 
